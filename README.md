@@ -1,2 +1,2 @@
 # Homework-2- Banker's Algorithm
-A python program that computes Allocation, Max, Available, Need, and applies the Safety Test procedures of Banker’s algorithm.
+A Python program that implements the Banker's Algorithm for deadlock avoidance, including computation of the Need matrix and execution of the Safety Test to determine if the system is in a safe state.
